@@ -1,0 +1,10 @@
+*.o
+
+test_std_strtol
+test_my_strtol
+
+rep_my.txt
+rep_std.txt
+
+.vscode/
+*.swp
